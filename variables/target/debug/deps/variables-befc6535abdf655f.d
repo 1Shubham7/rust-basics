@@ -1,0 +1,5 @@
+/home/shubham/Code/Personal/rust-basics/variables/target/debug/deps/variables-befc6535abdf655f.d: src/main.rs
+
+/home/shubham/Code/Personal/rust-basics/variables/target/debug/deps/libvariables-befc6535abdf655f.rmeta: src/main.rs
+
+src/main.rs:
